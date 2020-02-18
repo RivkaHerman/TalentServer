@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\UI.exe.config
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\UI.exe
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\UI.pdb
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\01_DataAccessLayer.dll
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\DataTransferObject.dll
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\01_DataAccessLayer.pdb
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\DataTransferObject.pdb
+C:\Users\Administrator\source\repos\UsersSystem\UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\UsersSystem\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\UsersSystem\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UsersSystem\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Administrator\source\repos\UsersSystem\UI\obj\Debug\UI.exe
+C:\Users\Administrator\source\repos\UsersSystem\UI\obj\Debug\UI.pdb

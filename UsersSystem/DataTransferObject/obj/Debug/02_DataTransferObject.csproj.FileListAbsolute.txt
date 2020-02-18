@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\bin\Debug\01_DataAccessLayer.dll
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\bin\Debug\01_DataAccessLayer.pdb
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\obj\Debug\02_DataTransferObject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\obj\Debug\02_DataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\obj\Debug\02_DataTransferObject.csproj.CopyComplete
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Administrator\source\repos\UsersSystem\DataTransferObject\bin\Debug\01_DataAccessLayer.dll.config

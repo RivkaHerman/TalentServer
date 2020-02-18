@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\UsersSystem\01_DataAccessLayer\bin\Debug\01_DataAccessLayer.dll
+C:\Users\Administrator\source\repos\UsersSystem\01_DataAccessLayer\bin\Debug\01_DataAccessLayer.pdb
+C:\Users\Administrator\source\repos\UsersSystem\01_DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\UsersSystem\01_DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\UsersSystem\01_DataAccessLayer\obj\Debug\01_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UsersSystem\01_DataAccessLayer\obj\Debug\01_DataAccessLayer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\UsersSystem\01_DataAccessLayer\obj\Debug\01_DataAccessLayer.dll
+C:\Users\Administrator\source\repos\UsersSystem\01_DataAccessLayer\obj\Debug\01_DataAccessLayer.pdb
+C:\Users\Administrator\source\repos\UsersSystem\01_DataAccessLayer\obj\Debug\01_DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\UsersSystem\01_DataAccessLayer\bin\Debug\01_DataAccessLayer.dll.config
