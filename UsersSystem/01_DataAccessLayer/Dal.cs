@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using Newtonsoft.Json;
 
@@ -11,7 +12,7 @@ namespace JB
 
         public Dal()
         {
-            users = JsonConvert.DeserializeObject<List<User>>(File.ReadAllText(@"c:\users.json"));//ConfigurationManager.AppSettings["FILE_PATH"]));
+            users = JsonConvert.DeserializeObject<List<User>>(File.ReadAllText(ConfigurationManager.AppSettings["FILE_PATH"].ToString()));//@"c:\users.json"
         }
 
     }
